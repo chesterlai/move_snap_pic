@@ -1,3 +1,4 @@
+easy tool to solve daily problem
 run below on crontab
 need to consider about the path
 it will move the snapshot which located in desktop to another folder
